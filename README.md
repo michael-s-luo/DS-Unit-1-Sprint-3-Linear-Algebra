@@ -1,5 +1,6 @@
-# Welcome to BloomTech Data Science - Unit 1!
+# Bloomtech Data Science - Unit 1
+## 1.3: Linear Algebra
 
-## Sprint 3: Linear Algebra
+This repository serves to document and store my completed projects, assignments, and learning materials from the Bloomtech data science curriculum.
 
-In the repository, you will find Warm-up Activities, Guided Projects (lectures) and Module Projects (assignment) for each module.  There is also a study guide to help you prepare for the Sprint Challenge.
+Warm-up Activities, Guided Projects (lectures) and Module Projects (assignments) for unit 1.3 are found in this repository. My completed projects are located in each module's respective folder.
